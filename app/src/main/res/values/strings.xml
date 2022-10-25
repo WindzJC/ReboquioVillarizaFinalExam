@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CLE1 Midterm Exam</string>
+    <string name="icon_holder">Icon Holder</string>
+    <string name="title">Graphics Cards</string>
+    <string name="graphicscard1">GTX 1080</string>
+    <string name="graphicscard2">RTX 2060</string>
+    <string name="graphicscard3">RTX 2070</string>
+    <string name="graphicscard4">RTX 3080</string>
+    <string name="graphicscard5">RTX 3090</string>
+    <string name="graphicscard6">RTX 4090</string>
+    <string name="c1">The GeForce GTX 1080 was a high-end graphics card by NVIDIA, launched on May 27th, 2016. Built on the 16 nm process, and based on the GP104 graphics processor, in its GP104-400-A1 variant, the card supports DirectX 12. This ensures that all modern games will run on GeForce GTX 1080.
+Release price: $599  </string>
+    <string name="c2">Delivering max-setting 60+ FPS gaming at 1920x1080, and excellent high-setting performance at 2560x1440, the RTX 2060 offers an in-game experience that beats the GTX 1070 Ti and is on average 60% faster than the prior-generation GTX 1060.
+Release price: $349  </string>
+    <string name="c3">In terms of value, the 2070 Super is a great option for people looking to build a high-end gaming PC. It places at the top of the charts for the FPS per unit of money spent on a complete PC. If you\'re only looking at the graphics card, however, the RTX cards and really any high-end GPU—look far less enticing. </string>
+    <string name="c4">The RTX 2070 Super is good, it kills off the Radeon VII at its current price and does the same to the RTX 2080. So you\'re almost getting $700 performance for $500, almost. There\'s also no better deal to be had at this price point and that\'s why we need AMD to step it up a notch, or ten.
+Release price: $699  </string>
+    <string name="c5">The Nvidia GeForce RTX 3090 is the most powerful graphics card you can buy today, delivering playable 8K gaming performance, along with jaw-dropping 3D rendering and encoding performance. However, you have to pay a high price for this level of power.
+    Release price: $999.99</string>
+    <string name="c6">The NVIDIA® GeForce RTX® 4090 is the ultimate GeForce GPU. It brings an enormous leap in performance, efficiency, and AI-powered graphics. Experience ultra-high performance gaming, incredibly detailed virtual worlds, unprecedented productivity, and new ways to create. It’s powered by the NVIDIA Ada Lovelace architecture and comes with 24 GB of G6X memory to deliver the ultimate experience for gamers and creators.
+Release price: $1599  </string>
+
+</resources>
